@@ -1,0 +1,140 @@
+/* Index page */
+.bg-lig {
+    background-color: #000;
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #fff;
+    padding: 1rem 1.30rem 0.12rem;
+    font-size: 1.25rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    padding: 1rem 1.30rem 0.12rem;
+    font-size: 1.25rem;
+}
+
+.color-i {
+   background-color: #fff;
+}
+
+.mt-6 {
+    padding: 13rem 2rem;
+    font-size: 3.125rem;
+}
+
+body {
+    color: #000;
+}
+
+.tittle-img-ind {
+    color:#a239CA;
+    font-size: 1.563rem;
+    padding: 8rem 0.25rem 0.20rem;
+}
+
+ul {
+    padding: 0.25rem;
+}
+
+h2 {
+    color: #fff
+}
+
+.bg-other {
+    background-image: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
+    padding: 3.125rem 5rem;
+    margin: 0rem;
+    color: #fff;
+    font-size: 1.775rem;
+}
+
+.bg-works-t {
+    padding: 8rem 5rem 0.80rem;
+    margin: 0rem;
+    color: #000;
+    font-size: 1.775rem;
+}
+
+.carousel-inner > .item > img {
+    object-fit: scale-down;
+    height: 20vh;
+    width: 100%;
+}
+
+.footer {
+  display: block;
+  font-size: 1rem;
+  padding: 2.5rem 4.375rem 1.875rem;
+  letter-spacing: 0.031rem;
+} 
+
+.created {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+   
+li {
+  list-style-type: none;
+}
+
+/* Contact page */ 
+.number-1 {
+    font-size: 1.875rem;
+    margin: 0rem;
+    color: #fff;
+    padding: 1.30rem 3.125rem 0rem;
+    background-color: #000;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color:#a239CA;
+    border-color: #a239CA;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color:#000;
+    border-color: #000;
+
+}
+
+.contact-header {
+    padding: 3.125rem 3.125rem 0.313rem;
+    margin: 0.325rem 0rem;
+    font-size: 1.75rem;
+}
+
+.info {
+    padding: 1.875rem 3.125rem;
+    margin: 0.625rem 0rem 3.125rem;  
+    list-style-type: none;
+    width: 50%;
+}
+
+.bg-form {
+    padding: 1.875rem 3.125rem;
+    margin: 0.300rem 0rem 3.125rem; 
+}
+
+
+/* Works page */
+
+.tittle-img-works {
+    padding: 8rem 5rem 0rem;
+    margin: 0rem;
+    color: #000;
+    font-size: 1.775rem;
+}
+
+.p-00 {
+    padding-left: 2rem;
+}
